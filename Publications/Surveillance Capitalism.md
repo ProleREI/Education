@@ -1,4 +1,7 @@
 # Surveillance Capitalism
+
+**[Sources](https://github.com/ProleREI/Research/blob/master/Capitalism/Surveillance%20Capitalism.md)**
+
 There are Thousands of companies spying on you with a similar level of sophistication as state Intelligence Agencies(CIA, NSA, GRU, etc.). This is mostly done to gather data for advertising purposes, but there are very serious implications to this data-gathering. 
 
 The methods of data-collection are numerous, and include hundreds of data points in order to uniquely identify you based on:
@@ -20,7 +23,7 @@ On a group level, we can fight for improved Privacy and Data security laws. We c
 
 On an individual level, The main thing we can do is to minimize the data we are sending to these companies harvesting our data. One way we can do this is by using alternative software to popular products, such as "Free and Open Source Software"(FOSS). FOSS doesn't have the financial incentive to data-mine or violate your privacy, and the source-code is available to to public to audit. 
 
-So, here is a list of software(and some Hardware) that is highly recommended to help migration away from data-mining companies. 
+So, here is a list of software(and some Hardware) that is highly recommended to help migration away from data-mining companies.
 
 # Recommended Software
 ### Email
