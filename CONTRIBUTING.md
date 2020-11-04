@@ -1,6 +1,6 @@
 # Getting Involved
 
-Thank you for your interest in getting involved with REI. There are several areas we can use your help:
+Thank you for your interest in getting involved with ProleREI. There are several areas we can use your help:
 
 - If you have a suggestion for how we can do things better, please open an issue.
 - If you notice documentation that needs to be updated, please open up an issue.
@@ -10,7 +10,7 @@ Thank you for your interest in getting involved with REI. There are several area
 
 # Getting Started
 
-All of the documents written by REI are written in markdown, If you are unfamiliar with GitHub or Markdown, please see these guidelines for help:
+All of the documents written by ProleREI are written in markdown, If you are unfamiliar with GitHub or Markdown, please see these guidelines for help:
  
 - [Contributing to Open Source](https://opensource.guide/how-to-contribute/)
 - [Creating a Fork and Merging](https://guides.github.com/activities/forking/)

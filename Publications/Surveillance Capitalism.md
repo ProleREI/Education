@@ -1,7 +1,5 @@
 # Surveillance Capitalism
 
-**[Sources](https://github.com/ProleREI/Research/blob/master/Capitalism/Surveillance%20Capitalism.md)**
-
 There are Thousands of companies spying on you with a similar level of sophistication as state Intelligence Agencies(CIA, NSA, GRU, etc.). This is mostly done to gather data for advertising purposes, but there are very serious implications to this data-gathering. 
 
 The methods of data-collection are numerous, and include hundreds of data points in order to uniquely identify you based on:
@@ -102,6 +100,7 @@ So, here is a list of software(and some Hardware) that is highly recommended to 
 - [Why an insecure internet is actually in tech companies’ best interests](https://ideas.ted.com/why-an-insecure-internet-is-actually-in-tech-companies-best-interests/)
 - [SURVEILLANCE SELF-DEFENSE: TIPS, TOOLS AND HOW-TOS FOR SAFER ONLINE COMMUNICATIONS](https://ssd.eff.org/)
 - [SECURITY EDUCATION COMPANION](https://sec.eff.org/)
+- Sources: [Surveillance Capitalism](https://github.com/ProleREI/Research/blob/master/Capitalism/Surveillance%20Capitalism.md)
 
 # Anonymity and Privacy
 - [Famed Hacker Kevin Mitnick Shows You How to Go Invisible Online](https://www.wired.com/2017/02/famed-hacker-kevin-mitnick-shows-go-invisible-online/)
