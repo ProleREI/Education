@@ -1,4 +1,4 @@
-#Visual Media: Non-fiction
+# Visual Media: Non-fiction
 - 13th
 - Black Power Mix Tape
 - King in the Wilderness
@@ -53,6 +53,7 @@
 - Real Life: A Novel
 - The Hate They Give You
 - Giovanni's Room
+- The Blacker The Berry, By Wallace Thurman
 
 # Podcasts
 - 1619
@@ -114,6 +115,8 @@
 - Jim Crow
 - Forced Sterilizations
 - American Civil Rights Movement 
+- 1876 United States Presidential Election
+- Compromise of 1877
 - Brown v. Board of Education
 - Civil Rights Act of 1964
 - Voting Rights Act of 1965

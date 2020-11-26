@@ -9,3 +9,4 @@
 - [Tools for Anti-Racist Teaching](https://www.pbs.org/education/blog/tools-for-anti-racist-teaching)
 - [From White Racist to White Anti-Racist the life-long journey,Tema Okun](https://www.fammed.wisc.edu/files/webfm-uploads/documents/diversity/LifeLongJourney.pdf)
 - [Becoming an Anti-Racist White Ally: How a White Affinity Group Can Help](http://www.racialequitytools.org/resourcefiles/whiteaffinitygroup.pdf)
+- [Dismantling Racism](http://www.dismantlingracism.org/)

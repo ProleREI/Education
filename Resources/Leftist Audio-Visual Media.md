@@ -1,0 +1,9 @@
+| Leftist Audio-Visual Media | Description |
+|---|---|
+| [Means TV](https://Means.tv) | "Means TV is the world’s first worker-owned, post-capitalist streaming service. Means TV has a library of films, documentaries, and shows with new programming added all the time. We also have live weekly shows covering news, the working class, gaming and sports." |
+| [subMedia](https://sub.media/) | "subMedia is a video production ensemble, which aims to promote anarchist and anti-capitalist ideas, and aid social struggles through the dissemination of radical films and videos. Founded in 1994, subMedia has produced hundreds of videos on everything from anti-globalization protests to films about shoplifting. Our films have been screened around the world in social centers and movie theaters and have been watched by millions on the internet. This site is a collection of videos from 2003 onwards." |
+| [Unicorn Riot](https://www.unicornriot.ninja/) | "Unicorn Riot is a decentralized, educational 501(c)(3) non-profit media organization of artists and journalists. Our work is dedicated to exposing root causes of dynamic social and environmental issues through amplifying stories and exploring sustainable alternatives in today’s globalized world." |
+| [Youtube - Audible Socialism](https://www.youtube.com/channel/UCvfeZJmLFo2o90A0v3ce2_Q) | "Audible Socialism is a collaborative project between several socialists to convert public domain texts from Marxists.org to usable audiobook." |
+| [Youtube - Innuendo Studios ](https://www.youtube.com/playlist?list=PLJA_jUddXvY7v0VkYRbANnTnzkA_HMFtQ) | Recommended Playlist: "The Alt-Right Playbook"|
+| [Youtube - Second Thought ](https://www.youtube.com/c/SecondThought/featured) |"Second Thought is a channel devoted education and analysis of current events from a Leftist perspective. Welcome!"|
+| [Youtube - Shaun from Youtube](https://www.youtube.com/channel/UCJ6o36XL0CpYb6U5dNBiXHQ/featured) | "this is my internet channel" |
