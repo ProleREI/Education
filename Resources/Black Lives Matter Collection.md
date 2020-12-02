@@ -46,6 +46,17 @@
 - Amistad
 - Orange Is The New Black
 
+# Books: Non-Fiction  
+In the [Recommended Reading List](Recommended Reading List.md), view the following sub-sections:
+- America
+- Anti-Racism
+- Black Biography\AutoBiography
+- Black Feminism
+- Black History
+- Black Liberation
+- Black LGBTQ
+- Black Science
+
 # Books: Fiction
 - The Bluest Eye
 - Their eyes were watching God

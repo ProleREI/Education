@@ -19,3 +19,6 @@
 - [The Femme’s Guide to Riot Fashion, This Season’s Hottest Looks for the Discerning Anarchist Femme](https://crimethinc.com/2017/10/16/the-femmes-guide-to-riot-fashion-this-seasons-hottest-looks-for-the-discerning-anarchist-femme)
 - [Jail Support and Solidarity](https://upagainstthelaw.org/jail-support-and-solidarity/)
 
+### For Medical Resources, Go to: [Medical](Medical.md)  
+
+
