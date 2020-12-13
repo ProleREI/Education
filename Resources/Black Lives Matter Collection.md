@@ -132,3 +132,9 @@ In the [Recommended Reading List](Recommended_Reading_List.md), view the followi
 - Civil Rights Act of 1964
 - Voting Rights Act of 1965
 - Fair Housing Act of 1968
+
+# Resources  
+- [Anti-Racism Resources](Anti-Racism.md)  
+- [Anti-Racism Organizations](https://github.com/ProleREI/Education/blob/master/Resources/Organizations/Anti-Racism.md)  
+- [White-Supremacy Research](https://github.com/ProleREI/Research/tree/master/United%20States/White%20Supremacy)  
+

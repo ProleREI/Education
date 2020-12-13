@@ -1,7 +1,9 @@
 # ProleREI - Education  
 
 Welcome to Proletariat Research, Education, Intelligence(REI)!  
+
 ProleREI Education is a centralized, Open-Source Kowledge-Base available for everyone to use and reference, with no restrictions. The Kowledge-Base contains educational resources from around the Internet, and publications reference the "Raw Data" in the ProleREI Research Repo.  
+
 For more information, see [LICENSE.md](LICENSE.md)  
 
 # Who We Are  
