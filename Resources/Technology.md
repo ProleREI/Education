@@ -17,6 +17,7 @@
 - [Chris Rock](https://chrisrockhacker.com/)
 - [bryanseely.com](https://www.bryanseely.com/)
 - [Christopher Soghoian](https://www.dubfire.net/)
+- [Light Commands](https://lightcommands.com/)
 
 ## Physical Security
 - [Deviant Ollam](https://deviating.net/)

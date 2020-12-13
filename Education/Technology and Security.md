@@ -46,3 +46,5 @@
 
 ## Hardware Hacking
 - [Hack All The Things: 20 Devices in 45 Minutes](https://www.youtube.com/watch?v=h5PRvBpLuJs&t=11s)
+- [Breaking Into a Smart Home With A Laser - Smarter Every Day 229](https://www.youtube.com/watch?v=ozIKwGt38LQ)
+
