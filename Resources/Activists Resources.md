@@ -18,6 +18,11 @@
 - [Tools and Tactics in the Portland Protests, From Leaf Blowers and Umbrellas to Lasers, Balloons, and Power Tools](https://crimethinc.com/2020/08/03/tools-and-tactics-in-the-portland-protests-from-leaf-blowers-and-umbrellas-to-lasers-bubbles-and-balloons)
 - [The Femme’s Guide to Riot Fashion, This Season’s Hottest Looks for the Discerning Anarchist Femme](https://crimethinc.com/2017/10/16/the-femmes-guide-to-riot-fashion-this-seasons-hottest-looks-for-the-discerning-anarchist-femme)
 - [Jail Support and Solidarity](https://upagainstthelaw.org/jail-support-and-solidarity/)
+- [A Guide to Law Enforcement Spying Technology](https://www.eff.org/issues/street-level-surveillance)
+- [Operations security](https://en.m.wikipedia.org/wiki/Operations_security)
+- [How Portland Protesters Keep Each Other Safe](https://www.yesmagazine.org/social-justice/2020/12/09/portland-protesters-safety/)
+- [FIGHTING POLICE ABUSE: A COMMUNITY ACTION MANUAL](https://www.aclu.org/other/fighting-police-abuse-community-action-manual)
+
 
 ### For Medical Resources, Go to: [Medical](Medical.md)  
 
