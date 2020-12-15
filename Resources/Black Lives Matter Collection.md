@@ -135,6 +135,6 @@ In the [Recommended Reading List](Recommended_Reading_List.md), view the followi
 
 # Resources  
 - [Anti-Racism Resources](Anti-Racism.md)  
-- [Anti-Racism Organizations](https://github.com/ProleREI/Education/blob/master/Resources/Organizations/Anti-Racism.md)  
+- [Anti-Racism Organizations](https://github.com/ProleREI/Education/blob/master/Organizations/Anti-Racism.md)  
 - [White-Supremacy Research](https://github.com/ProleREI/Research/tree/master/United%20States/White%20Supremacy)  
 

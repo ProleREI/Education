@@ -22,7 +22,7 @@
 - [Operations security](https://en.m.wikipedia.org/wiki/Operations_security)
 - [How Portland Protesters Keep Each Other Safe](https://www.yesmagazine.org/social-justice/2020/12/09/portland-protesters-safety/)
 - [FIGHTING POLICE ABUSE: A COMMUNITY ACTION MANUAL](https://www.aclu.org/other/fighting-police-abuse-community-action-manual)
-
+- [Uprising: A Guide From Portland](https://www.iheart.com/podcast/1119-uprising-a-guide-from-por-73255667/episode/the-birth-of-an-uprising-74824666/)  
 
 ### For Medical Resources, Go to: [Medical](Medical.md)  
 

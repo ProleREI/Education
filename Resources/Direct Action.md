@@ -6,6 +6,8 @@
 - [Little Free Pantry Ressources](https://www.littlefreepantry.org/resources-1)
 - [How to Organize Your Building](https://jewishcurrents.org/how-to-organize-your-building/)
 - [Millions Are Hounded for Debt They Don’t Owe. One Victim Fought Back, With a Vengeance](https://www.bloomberg.com/news/features/2017-12-06/millions-are-hounded-for-debt-they-don-t-owe-one-victim-fought-back-with-a-vengeance)
+- [FIGHTING POLICE ABUSE: A COMMUNITY ACTION MANUAL](https://www.aclu.org/other/fighting-police-abuse-community-action-manual)
+
 
 ### Anti-Extremism
 - [CHUDINTELPRO: Introduction](https://medium.com/@antifacowrustlr/chudintelpro-introduction-39a99352ee3b)
