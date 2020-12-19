@@ -38,6 +38,8 @@
 - [The Search for the Perfect Door - Deviant Ollam](https://www.youtube.com/watch?v=4YYvBLAF4T8)
 - [DeepSec 2010: Electronic Locks - are really secure?!](https://www.youtube.com/watch?v=5l_4UVLmVgQ)
 - [DEF CON 23 - Dennis Maldonado - Are We Really Safe? - Bypassing Access Control Systems](https://youtu.be/-cZ7eDV2n5Y)
+- [Bill Graydon - Duplicating Restricted Mechanical Keys - DEF CON 27 Conference](https://youtu.be/ij0c-236O0k) 
+- [Howard Payne & Deviant Ollam - This Key is Your Key, This Key is My Key](https://youtu.be/a9b9IYqsb_U)
 
 
 ## Social Engineering
